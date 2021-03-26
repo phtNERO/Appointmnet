@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Appointmnet", "Appointmnet\Appointmnet.vbproj", "{06D4AEEA-D4E1-44C3-B950-906C5C0E7535}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06D4AEEA-D4E1-44C3-B950-906C5C0E7535}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06D4AEEA-D4E1-44C3-B950-906C5C0E7535}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06D4AEEA-D4E1-44C3-B950-906C5C0E7535}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06D4AEEA-D4E1-44C3-B950-906C5C0E7535}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {199C9CB4-8B36-47CD-98A2-96745F129100}
+	EndGlobalSection
+EndGlobal
